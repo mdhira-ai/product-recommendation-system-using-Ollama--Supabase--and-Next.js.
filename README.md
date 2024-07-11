@@ -1,6 +1,6 @@
 ## Overview
 
-This project provides a semantic search functionality for a product database using Supabase, Ollama (nomic-embed-text), Langchain, and Next.js. The application includes an API route for product recommendations, components to list products and recommendations, a main page to integrate these components, and a script to generate and update product embeddings.
+The application includes an API route for product recommendations using Supabase, Ollama (nomic-embed-text), Langchain, and Next.js, components to list products and recommendations, a main page to integrate these components, and a script to generate and update product embeddings.
 
 ## Prerequisites
 
